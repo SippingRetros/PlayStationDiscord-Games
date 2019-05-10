@@ -14,6 +14,7 @@ title_ids = [
     'CUSA02290_00', # Black Ops 3
     'CUSA00803_00', # Advanced Warfare
     'CUSA00018_00', # Ghosts
+    'CUSA04013_00', # Titanfall
 ]
 
 urls = [
@@ -24,11 +25,11 @@ urls = [
     # Top 50 digital only games
     "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-TOPPSNGAMES?size=50&bucket=games&start=0&platform=ps4",
     # 10 newest free games
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-GAMESFREETOPLAY?sort=release_date&direction=desc&size=10&bucket=games&start=0&platform=ps4",
+    #"https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-GAMESFREETOPLAY?sort=release_date&direction=desc&size=10&bucket=games&start=0&platform=ps4",
     # Newest games this month
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-NEWTHISMONTH?game_content_type=games&size=100&bucket=games&start=0&platform=ps4",
+    #"https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-NEWTHISMONTH?game_content_type=games&size=100&bucket=games&start=0&platform=ps4",
     # Coming soon
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-PS3PSNPREORDERS?gameContentType=games&gameType=ps4_full_games%2Cpsn_games&releaseDate=coming_soon%2Clast_30_days&platform=ps4"
+    #"https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-PS3PSNPREORDERS?gameContentType=games&gameType=ps4_full_games%2Cpsn_games&releaseDate=coming_soon%2Clast_30_days&platform=ps4"
 ]
 
 
