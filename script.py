@@ -9,6 +9,7 @@ title_ids = [
     'CUSA02290_00', # Black Ops 3
     'CUSA04013_00', # Titanfall 2
     'CUSA02377_00', # Assasins Creed: Syndicate
+    'CUSA03603_00', # Dishonored 2
 ]
 
 urls = [
