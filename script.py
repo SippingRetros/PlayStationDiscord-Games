@@ -5,7 +5,7 @@ from pytablewriter import MarkdownTableWriter
 tmdb_key = bytearray.fromhex('F5DE66D2680E255B2DF79E74F890EBF349262F618BCAE2A9ACCDEE5156CE8DF2CDF2D48C71173CDC2594465B87405D197CF1AED3B7E9671EEB56CA6753C2E6B0')
 
 title_ids = [
-    'CUSA07022_00', # Fortnite
+    'CUSA07669_00', # Fortnite
     'CUSA02290_00', # Black Ops 3
     'CUSA04013_00', # Titanfall 2
     'CUSA02377_00', # Assasins Creed: Syndicate
