@@ -6,15 +6,9 @@ tmdb_key = bytearray.fromhex('F5DE66D2680E255B2DF79E74F890EBF349262F618BCAE2A9AC
 
 title_ids = [
     'CUSA07022_00', # Fortnite
-    'CUSA05042_00', # Destiny 2
-    'CUSA11100_00', # Black Ops 4
-    'CUSA05969_00', # WWII
-    'CUSA04762_00', # Infinite Warfare
-    'CUSA03522_00', # Modern Warfare Remastered
     'CUSA02290_00', # Black Ops 3
-    'CUSA00803_00', # Advanced Warfare
-    'CUSA00018_00', # Ghosts
-    'CUSA04013_00' # Titanfall 2
+    'CUSA04013_00', # Titanfall 2
+    'CUSA02377_00', # Assasins Creed: Syndicate
 ]
 
 urls = [
