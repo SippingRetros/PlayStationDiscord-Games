@@ -11,6 +11,7 @@ title_ids = [
     'CUSA02377_00', # Assasins Creed: Syndicate
     'CUSA03603_00', # Dishonored 2
     'CUSA00016_00', # Watch Dogs 2
+    'CUSA02344_00', # Uncharted: Nathan Drake Collection
 ]
 
 urls = [
