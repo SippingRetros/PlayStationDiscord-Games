@@ -12,7 +12,8 @@ title_ids = [
     'CUSA03603_00', # Dishonored 2
     'CUSA00016_00', # Watch Dogs 2
     'CUSA02344_00', # Uncharted: Nathan Drake Collection
-    'CUSA15433_00', # Dauntless
+    'CUSA15433_00', # Dauntless,
+    'CUSA06638_00', # Persona5
 ]
 
 urls = [
