@@ -14,6 +14,7 @@ title_ids = [
     'CUSA02344_00', # Uncharted: Nathan Drake Collection
     'CUSA15433_00', # Dauntless,
     'CUSA06638_00', # Persona5
+    'CUSA07399_00', # Crash Bandicoot
 ]
 
 urls = [
