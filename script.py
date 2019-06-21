@@ -16,6 +16,7 @@ title_ids = [
     'CUSA06638_00', # Persona5
     'CUSA07399_00', # Crash Bandicoot
     'CUSA03617_00', # Mafia III
+    'CUSA01446_00', # Borderlands: Handsome Jack Collection
 ]
 
 urls = [
